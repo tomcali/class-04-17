@@ -1,0 +1,25 @@
+{
+  "name": "class-04-17",
+  "version": "1.0.0",
+  "description": "Classroom work Monday, April 17 instead of Tuesday April 18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomcali/class-04-17.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcali/class-04-17/issues"
+  },
+  "homepage": "https://github.com/tomcali/class-04-17",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "mysql": "^2.13.0"
+  }
+}
